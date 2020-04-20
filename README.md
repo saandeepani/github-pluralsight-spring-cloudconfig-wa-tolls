@@ -1,2 +1,2 @@
-# github-pluralsight-spring-cloudconfig-wa-tolls
+# spring-cloudconfig
 micro service config from git example
